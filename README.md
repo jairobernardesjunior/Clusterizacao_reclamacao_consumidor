@@ -9,6 +9,6 @@ O Consumidor.gov.br é um novo serviço público para solução alternativa de c
 
 https://dados.mj.gov.br/dataset/reclamacoes-do-consumidor-gov-br
 
-- Neste estudo, através de dados de reclamações do consumidor, o objetivo é agrupar essas reclamações em clusters conforme as características passadas.
+- Neste estudo, através de dados de reclamações do consumidor, o objetivo é agrupar essas reclamações em clusters conforme as características passadas, fazendo uso de machine learning.
 
 - Após o agrupamento pode-se ter informações relevantes tais como características de cada grupo, quantidade de reclamações por grupo, etc.
