@@ -1,6 +1,6 @@
 # Agrupa_reclamação_consumidor
 
-![Imagem de Cenoura](https://github.com/jairobernardesjunior/Agrupa_reclamacao_consumidor/blob/main/consumidor.jpg)
+![Imagem de Reclamação](https://github.com/jairobernardesjunior/Agrupa_reclamacao_consumidor/blob/main/consumidor.jpg)
  
 ## Agrupa as reclamações de consumidor (clustering)
 
