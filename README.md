@@ -1,6 +1,6 @@
 # Agrupa_reclamação_consumidor
 
-![Imagem de Cenoura](https://github.com/jairobernardesjunior/Prediz_preco_cenoura/blob/main/cenoura.png)
+![Imagem de Cenoura](https://github.com/jairobernardesjunior/Agrupa_reclamacao_consumidor/blob/main/consumidor.jpg)
  
 ## Agrupa as reclamações de consumidor (clustering)
 
