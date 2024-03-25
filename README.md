@@ -4,8 +4,8 @@
  
 ## Agrupa as reclamações de consumidor (clustering)
 
-# Dados Consumidor.gov.br
-O Consumidor.gov.br é um novo serviço público para solução alternativa de conflitos de consumo por meio da internet, que permite a interlocução direta entre consumidores e empresas, fornece ao Estado informações essenciais à elaboração e implementação de políticas públicas de defesa dos consumidores e incentiva a competitividade no mercado pela melhoria da qualidade e do atendimento ao consumidor.
+#### Dados Consumidor.gov.br
+- O Consumidor.gov.br é um novo serviço público para solução alternativa de conflitos de consumo por meio da internet, que permite a interlocução direta entre consumidores e empresas, fornece ao Estado informações essenciais à elaboração e implementação de políticas públicas de defesa dos consumidores e incentiva a competitividade no mercado pela melhoria da qualidade e do atendimento ao consumidor.
 
 https://dados.mj.gov.br/dataset/reclamacoes-do-consumidor-gov-br
 
