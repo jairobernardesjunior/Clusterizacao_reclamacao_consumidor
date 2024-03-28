@@ -11,4 +11,4 @@ https://dados.mj.gov.br/dataset/reclamacoes-do-consumidor-gov-br
 
 - Neste estudo, através de dados de reclamações do consumidor, o objetivo é agrupar essas reclamações em clusters conforme as características passadas, fazendo uso de machine learning.
 
-- Após o agrupamento pode-se ter informações relevantes tais como características de cada grupo, quantidade de reclamações por grupo, etc.
+- Após o agrupamento pode-se ter informações relevantes tais como características de cada grupo, quantidade de reclamações por grupo, faixa hetária, etc. Esse conhecimento sobre os grupos de reclamações de consumidores podem ser usados para designar atendentes com qualificações direcionadas para o grupo de reclamantes.
