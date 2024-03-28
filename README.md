@@ -2,8 +2,7 @@
 
 ![Imagem de Reclamação](https://github.com/jairobernardesjunior/Agrupa_reclamacao_consumidor/blob/main/consumidor.jpg)
  
-## Agrupa as reclamações de consumidor (clustering)
-
+## Agrupa as reclamações de consumidor (clustering) para designar atendimento conforme qualificação do atendente
 #### Dados Consumidor.gov.br
 - O Consumidor.gov.br é um novo serviço público para solução alternativa de conflitos de consumo por meio da internet, que permite a interlocução direta entre consumidores e empresas, fornece ao Estado informações essenciais à elaboração e implementação de políticas públicas de defesa dos consumidores e incentiva a competitividade no mercado pela melhoria da qualidade e do atendimento ao consumidor.
 
