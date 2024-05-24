@@ -1,6 +1,6 @@
 # Agrupa_reclamação_consumidor
 
-![Imagem de Reclamação](https://github.com/jairobernardesjunior/Agrupa_reclamacao_consumidor/blob/main/consumidor.jpg)
+![Imagem de Reclamação](https://github.com/jairobernardesjunior/Agrupa_reclamacao_consumidor/blob/main/consumidor2.jpg)
  
 ## Agrupa as reclamações de consumidor (clustering) para designar atendimento conforme qualificação do atendente
 #### Dados Consumidor.gov.br
